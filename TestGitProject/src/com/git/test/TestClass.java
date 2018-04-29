@@ -7,6 +7,7 @@ public class TestClass {
 		System.out.println("Test is test class");
 		System.out.println("Updated");
 		System.out.println("1");
+		System.out.println("3");
 	}
 
 }
